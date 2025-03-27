@@ -1,0 +1,13 @@
+The image features a logo for a "CS Club" associated with Purdue University in Indianapolis. The design is modern and minimalistic, utilizing geometric shapes and a clean typeface.
+
+1. **Color Scheme**: The logo employs a two-tone color palette. The left section is a light beige color, while the right section is a dark brown. Both colors provide a strong contrast against the white elements within the design.
+
+2. **Shape and Composition**: The logo consists of two distinct sections. The left side is shaped like a rounded rectangle or square that transitions to the right with a more angular triangular shape. This adds a dynamic quality to the overall design.
+
+3. **Text Elements**:
+   - At the top-left, "CS CLUB" is prominently displayed in a bold, blocky font that conveys a sense of strength and stability. The text color is dark brown, contrasting well with the beige background.
+   - Below this, in a smaller font, the words "Purdue University" are featured, followed by "Indianapolis" in a slightly smaller size, both rendered in the same dark brown color. The font has a technical or digital feel, reflecting the computer science theme of the club.
+
+4. **Symbols**: Each side of the logo features a symbol related to coding: the left side has a less-than symbol (“<”) in white, while the right side displays a greater-than symbol (“>”) also in white. These symbols are often associated with programming and logic, reinforcing the identity of the CS Club.
+
+Overall, the design of the logo is clean, modern, and effectively communicates its association with technology and computer science.

@@ -1,0 +1,11 @@
+The image features a logo composed of two main elements: a graphical icon and typographic text. 
+
+1. **Graphical Icon**: 
+   - The icon is circular with a black outer ring. Inside, the background is gray, giving it depth. 
+   - At the center of the circle, there is a stylized compass design featuring a circular shape with directional points (N, S, E, W) depicted as simple lines extending outward. This suggests navigation and transportation themes.
+
+2. **Text**: 
+   - To the right of the icon, the word "SOUTHWEST" is displayed prominently in bold, uppercase letters, which are a lighter gray color. This captures attention and emphasizes the agency’s name.
+   - Below "SOUTHWEST," the words "transportation agency" are presented in smaller, lowercase letters in a thin, light gray font. This text is less prominent, indicating it serves as a descriptor of the main title.
+
+Overall, the design is clean and modern, using a monochromatic color scheme that enhances legibility and professionalism, suitable for a transportation-related organization.
